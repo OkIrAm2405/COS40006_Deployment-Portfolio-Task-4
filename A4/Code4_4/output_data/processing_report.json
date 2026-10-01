@@ -1,0 +1,62 @@
+{
+    "task": "SWE40006 - Task 4.4 High Distinction",
+    "job_name": "Swinburne-Telemetry",
+    "processed_at": "2026-10-01 06:12:29",
+    "total_records": 10,
+    "summary": {
+        "completed": 10,
+        "errors": 0
+    },
+    "records": [
+        {
+            "record_id": 1,
+            "status": "PROCESSED",
+            "score": 13.37
+        },
+        {
+            "record_id": 2,
+            "status": "PROCESSED",
+            "score": 26.74
+        },
+        {
+            "record_id": 3,
+            "status": "PROCESSED",
+            "score": 40.11
+        },
+        {
+            "record_id": 4,
+            "status": "PROCESSED",
+            "score": 53.48
+        },
+        {
+            "record_id": 5,
+            "status": "PROCESSED",
+            "score": 66.85
+        },
+        {
+            "record_id": 6,
+            "status": "PROCESSED",
+            "score": 80.22
+        },
+        {
+            "record_id": 7,
+            "status": "PROCESSED",
+            "score": 93.59
+        },
+        {
+            "record_id": 8,
+            "status": "PROCESSED",
+            "score": 6.96
+        },
+        {
+            "record_id": 9,
+            "status": "PROCESSED",
+            "score": 20.33
+        },
+        {
+            "record_id": 10,
+            "status": "PROCESSED",
+            "score": 33.7
+        }
+    ]
+}
